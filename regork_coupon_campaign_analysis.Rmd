@@ -1,7 +1,7 @@
 ---
 title: "Regork Coupon Campaign Analysis"
 subtitle: "Optimizing Promotional Strategy Through Data-Driven Insights"
-author: "Sumit Kashid, Rizvi Shaik, Zafrul Hossain"
+author: "Sumit Kashid, Rizvi Shaik, M Zafrul Hossain"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   html_document:
