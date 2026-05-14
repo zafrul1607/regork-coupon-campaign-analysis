@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*_cache/
+*_files/
